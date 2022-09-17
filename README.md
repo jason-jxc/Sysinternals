@@ -1,5 +1,5 @@
 # Sysinternals
-Mirror of MS/Sysinternals for Easy Access
+Mirror of MS/Sysinternals for Easy Access - NON ZIP!
 
 The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools. This file contains the individual troubleshooting tools and help files. It does not contain non-troubleshooting tools like the BSOD Screen Saver.
 
